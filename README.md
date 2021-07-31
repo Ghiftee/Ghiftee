@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on any exciting project
 - 🤔 I’m looking for help with React and Redux
 - 💬 Ask me about anything books and community building
-- 📫 You can reach me via email [@Ghiftee](gigibetine@gmail.com)
+- 📫 You can reach me via email [@Ghiftee](mailto:gigibetine@gmail.com)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am fascinated by Indian culture and festivals
 
 [![Ghiftee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghiftee&show_icons=true&theme=radical)](https://github.com/ghiftee/github-readme-stats)
