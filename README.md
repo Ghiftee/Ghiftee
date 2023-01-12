@@ -10,3 +10,5 @@
 - ⚡ Fun fact: I am fascinated by Indian culture and festivals
 
 [![Ghiftee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghiftee&show_icons=true&theme=radical)](https://github.com/ghiftee/github-readme-stats)
+
+[![Ghiftee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghiftee)](https://github.com/ghiftee/github-readme-stats)
